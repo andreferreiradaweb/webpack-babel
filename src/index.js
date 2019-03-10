@@ -1,3 +1,3 @@
-const teste = "ES2015-TESTE-CONST";
+import {} from './instancia-cliente';
 
-console.log(teste);
+console.log('ES6');
