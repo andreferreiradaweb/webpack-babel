@@ -1,4 +1,4 @@
-export default class cliente {
+export default class Cliente {
     constructor(nome){
         this.nome = nome;
     }
